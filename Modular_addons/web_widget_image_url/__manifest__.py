@@ -13,5 +13,5 @@
         "views/web_widget_image_url.xml",
     ],
     "qweb": ["static/src/xml/*.xml"],
-    "installable": True,
+    "installable": False,
 }
