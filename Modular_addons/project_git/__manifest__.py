@@ -34,5 +34,5 @@
         "static/src/xml/agile_git.xml",
     ],
     "application": False,
-    "installable": True,
+    "installable": False,
 }
